@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">transport-guide</string>
+    <string name="app_in_name">fucking programma</string>
+    <string name="app_in_name_after">Register app</string>
+    <string name="text_bottom">Log in to your account</string>
+    <string name="btnSignIn">СЕСТЬ</string>
+    <string name="btnRegister">ВЫЛЕТЕТЬ</string>
+</resources>

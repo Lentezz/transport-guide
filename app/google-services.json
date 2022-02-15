@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "911826435782",
+    "project_id": "transportguidedb",
+    "storage_bucket": "transportguidedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911826435782:android:97ec8ce8a89867003221c7",
+        "android_client_info": {
+          "package_name": "com.univer.transport_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911826435782-m84ib051k97e50tt97e5iiap7duglh9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.univer.transport_guide",
+            "certificate_hash": "9dc671b2c34b0859e4abb992165547eec24419b4"
+          }
+        },
+        {
+          "client_id": "911826435782-nd0lbl2vudcg9rbdah8292nbvt51nj30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_qs5jIeWDICPX2SpNx37MZuN-k3RN3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911826435782-nd0lbl2vudcg9rbdah8292nbvt51nj30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
